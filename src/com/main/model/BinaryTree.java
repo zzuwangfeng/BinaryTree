@@ -54,7 +54,7 @@ public class BinaryTree {
 		
 		tree.turnNode(node);
 		System.out.println("*********************");
-		System.out.println("先序遍历。。。。。。。。。");
+		System.out.println("翻转二叉树后先序遍历。。。。。。。。。");
 		tree.xianIterator(node);
 		System.out.println("");
 //		System.out.println("*********************");
